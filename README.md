@@ -27,10 +27,38 @@
  </center>
  
  <h1 align="center">Features</h1>
- <center>
+ <div align="center">
+   
+ | Inputs | Name |
+ | :--- | :----: |
+ | Text input | cc-input|
+ | Button | cc-btn |
+   
+ | Panels & Containers | Name |
+ | :--- | :----: |
+ | Panel | cc-panel |
+ | Container | cc-container |
+ | Segment | cc-segment |
+ | Card | cc-card |
+ | Codebox | cc-codebox |
+ | Checkcontainer | cc-checkcontainer |
+ | Radiocontainer | cc-radiocontainer |
  
- | Colors | Name |
- | :---   |  :----: |
+ | Formatting & Transitions | Name |
+ | :--- | :----: |
+ | Extra small round border | cc-round-xs |
+ | Small round border | cc-round-small |
+ | Basic round border | cc-round |
+ | Large round border | cc-round-large |
+ | Extra large round border | cc-round-xl |
+ | Center text left | cc-lefttext |
+ | Center text in middle | cc-centertext |
+ | Center text right | cc-righttext |
+ | Transition ease out | cc-transition-out |
+ | Normal transition | cc-transition |
+ 
+ | Colors | Name | Description |
+ | :---   |  :----: | :----: |
  | Blue   | cc-blue, cc-btn-blue, cc-blueonhover |
  | Green   | cc-green, cc-btn-green, cc-greenonhover |
  | Pink   | cc-pink, cc-btn-pink, cc-pinkonhover |
@@ -45,5 +73,8 @@
  | Dark Green   | cc-dg, cc-btn-dg, cc-dgonhover |
  | Black   | cc-black, cc-btn-black, cc-blackonhover |
  | Gray   | cc-gray, cc-btn-gray, cc-grayonhover |
+ | Blacktext | cc-blacktext | Makes text black |
+ | Whitetext | cc-whitetext | Makes text white |
  
- </center>
+ 
+ </div>
