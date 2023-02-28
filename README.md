@@ -25,3 +25,25 @@
  <link rel="stylesheet" href="https://raw.githubusercontent.com/WillDev12/CremeCSS/main/creme.css">
  ```
  </center>
+ 
+ <h1 align="center">Features</h1>
+ <center>
+ 
+ | Colors | Name |
+ | :---   |  :----: |
+ | Blue   | cc-blue, cc-btn-blue, cc-blueonhover |
+ | Green   | cc-green, cc-btn-green, cc-greenonhover |
+ | Pink   | cc-pink, cc-btn-pink, cc-pinkonhover |
+ | Magenta   | cc-magenta, cc-btn-magenta, cc-magentaonhover |
+ | Bright Purple   |
+ | Purple   |
+ | Dark Purple   |
+ | Cyan   |
+ | Light Blue   |
+ | Teal   |
+ | Teal Green   |
+ | Dark Green   |
+ | Black   |
+ | Gray   |
+ 
+ </center>
