@@ -29,23 +29,25 @@
  <h1 align="center">Features</h1>
  <div align="center">
    
- | Inputs | Name |
- | :--- | :----: |
- | Text input | cc-input|
- | Button | cc-btn |
+ | Inputs | Name | Desc |
+ | :--- | :----: | :----: |
+ | Text input | cc-input| Changes text underline |
+ | Button | cc-btn | Blank, customizable button |
+ | Checkbox | cc-checkbox |
+ | Radiobutton | cc-radiobutton |
    
- | Panels & Containers | Name |
- | :--- | :----: |
- | Panel | cc-panel |
- | Container | cc-container |
- | Segment | cc-segment |
+ | Panels & Containers | Name | Desc |
+ | :--- | :----: | :----: |
+ | Panel | cc-panel | Panel with padding |
+ | Container | cc-container | Container |
+ | Segment | cc-segment | Website segment |
  | Card | cc-card |
- | Codebox | cc-codebox |
- | Checkcontainer | cc-checkcontainer |
- | Radiocontainer | cc-radiocontainer |
+ | Codebox | cc-codebox | Place to put code |
+ | Checkcontainer | cc-checkcontainer | Wraps around checkboxes |
+ | Radiocontainer | cc-radiocontainer | Wraps around radiobuttons |
  
- | Formatting & Transitions | Name |
- | :--- | :----: |
+ | Formatting & Transitions | Name | Desc |
+ | :--- | :----: | :----: |
  | Extra small round border | cc-round-xs |
  | Small round border | cc-round-small |
  | Basic round border | cc-round |
@@ -54,8 +56,8 @@
  | Center text left | cc-lefttext |
  | Center text in middle | cc-centertext |
  | Center text right | cc-righttext |
- | Transition ease out | cc-transition-out |
- | Normal transition | cc-transition |
+ | Transition ease out | cc-transition-out | 0.2s ease out |
+ | Normal transition | cc-transition | 0.2s transition |
  
  | Colors | Name | Description |
  | :---   |  :----: | :----: |
