@@ -15,13 +15,13 @@
     <img src="https://img.shields.io/github/stars/WillDev12/CremeCSS?style=for-the-badge"></p>
 
 <h1 align="center">Installation</h1><p align="center">
+<p align="center">
+1.  Copy the code<br>
+2.  Embed in Header<br>
+3.  Enjoy<br></p>
 <center>
  
  ``` html
  <link rel="stylesheet" href="https://raw.githubusercontent.com/WillDev12/CremeCSS/main/creme.css">
  ```
  </center>
-<p align="center">
-1.  Copy the code<br>
-2.  Embed in Header<br>
-3.  Enjoy<br></p>
