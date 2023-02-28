@@ -35,15 +35,15 @@
  | Green   | cc-green, cc-btn-green, cc-greenonhover |
  | Pink   | cc-pink, cc-btn-pink, cc-pinkonhover |
  | Magenta   | cc-magenta, cc-btn-magenta, cc-magentaonhover |
- | Bright Purple   |
- | Purple   |
- | Dark Purple   |
- | Cyan   |
- | Light Blue   |
- | Teal   |
- | Teal Green   |
- | Dark Green   |
- | Black   |
- | Gray   |
+ | Bright Purple   | cc-bp, cc-btn-bp, cc-bponhover |
+ | Purple   | cc-purple, cc-btn-purple, cc-purpleonhover |
+ | Dark Purple   | cc-dp, cc-btn-dp, cc-dponhover |
+ | Cyan   | cc-cyan, cc-btn-cyan, cc-cyanonhover |
+ | Light Blue   | cc-lb, cc-btn-lb, cc-lbonhover |
+ | Teal   | cc-teal, cc-btn-teal, cc-tealonhover |
+ | Teal Green   | cc-tg, cc-btn-tg, cc-tgonhover |
+ | Dark Green   | cc-dg, cc-btn-dg, cc-dgonhover |
+ | Black   | cc-black, cc-btn-black, cc-blackonhover |
+ | Gray   | cc-gray, cc-btn-gray, cc-grayonhover |
  
  </center>
