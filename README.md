@@ -22,6 +22,6 @@
  ```
  </center>
 <p align="center">
-1.  Copy the link code<br>
-2.  Open any html document and place in header<br>
-3.  Save<br></p>
+1.  Copy the code<br>
+2.  Embed in Header<br>
+3.  Enjoy<br></p>
