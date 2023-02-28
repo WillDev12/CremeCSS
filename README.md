@@ -13,9 +13,15 @@
   
   <a href="https://github.com/WillDev12/SheetMerge">
     <img src="https://img.shields.io/github/stars/WillDev12/CremeCSS?style=for-the-badge"></p>
- <center>
+
+<h1 align="center">Installation</h1><p align="center">
+<center>
  
  ``` html
  <link rel="stylesheet" href="https://raw.githubusercontent.com/WillDev12/CremeCSS/main/creme.css">
  ```
  </center>
+<p align="center">
+1.  Copy the link code<br>
+2.  Open any html document and place in header<br>
+3.  Save<br></p>
