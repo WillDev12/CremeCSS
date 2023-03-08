@@ -23,7 +23,6 @@
  
  ``` html
  <link rel="stylesheet" href="https://raw.githubusercontent.com/WillDev12/CremeCSS/main/creme.css">
- <link rel"stylesheet" href="creme.css">
  ```
  </center>
  
