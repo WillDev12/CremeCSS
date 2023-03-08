@@ -22,7 +22,7 @@
 <center>
  
  ``` html
- <link rel="stylesheet" href="https://raw.githubusercontent.com/WillDev12/CremeCSS/main/creme.css">
+ <link rel="stylesheet" href="https://willdev12.github.io/CremeCSS/creme.css">
  ```
  </center>
  
