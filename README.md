@@ -41,7 +41,7 @@
  | Panel | cc-panel | Panel with padding |
  | Container | cc-container | Container |
  | Segment | cc-segment | Website segment |
- | Card | cc-card |
+ | Card | cc-card | Card-like panel with round border and box-shadow |
  | Codebox | cc-codebox | Place to put code |
  | Checkcontainer | cc-checkcontainer | Wraps around checkboxes |
  | Radiocontainer | cc-radiocontainer | Wraps around radiobuttons |
