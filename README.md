@@ -80,3 +80,14 @@
  
  
  </div>
+
+<h1 align="center">Like content like this?</h1>
+
+<center>
+
+<p align="center">Check out my <a href="https://github.com/WillDev12">profile</a> or share it! (It means a lot to me)</p>
+
+```
+https://github.com/WillDev12
+```
+</center>
